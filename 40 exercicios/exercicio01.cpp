@@ -3,7 +3,7 @@
 int idade=0;
 float peso=0;
 float altura=0;
-float motot=0;
+float motor=0;
 float eixo=0;
 float peso2=0;
 
