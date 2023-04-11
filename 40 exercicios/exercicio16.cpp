@@ -2,8 +2,13 @@
 using namespace std;
 
 int main(){
-	int a = 10; 
-	int b = 20;
+	int a = 0; 
+	int b = 0;
+	
+	cout<<"Informe o valor de a: ";
+	cin>>a;
+	cout<<"Informe o valor de b: ";
+	cin>>b;
 	
 	if(a < b){
 		int aux = 0;
