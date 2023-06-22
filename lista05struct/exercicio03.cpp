@@ -36,8 +36,8 @@ float mediaNotas(Aluno &a1){
     float media = 0.0;
     for(int i = 0; i < 4; i++){
         soma += a1.nota[i];
-        media = soma/i+1;
     }
+    media = soma/4;
     return media;
 }
 
