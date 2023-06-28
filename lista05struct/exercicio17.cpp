@@ -1,3 +1,9 @@
+/*Crie uma struct chamada "Banco" que armazene um array de structs
+"ContaBancaria". Cada conta deve ter um número (string), saldo (float)
+e um array de transações (struct "Transacao" com tipo, valor e data).
+Adicione métodos para permitir depósitos, saques e transferências entre 
+contas, além de exibir o extrato de uma determinada conta.*/
+
 #include <iostream>
 #include <string>
 
